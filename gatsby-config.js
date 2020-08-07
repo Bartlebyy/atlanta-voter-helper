@@ -7,7 +7,7 @@ module.exports = {
     description:
       "An FAQ page for people who want to vote in Atlanta elections.",
     siteUrl: "https://atlvoterhelper.netlify.app",
-    siteName: "A Help Center Theme for Gatsby",
+    siteName: "Atlanta Vote Helper",
     logoUrl: "/images/peach.png",
     logoLabel: "Atlanta Vote Helper",
     searchText: "Search",
