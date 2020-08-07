@@ -1,12 +1,12 @@
 - name: General Primary Runoff
   slug: general-primary-runoff
-  description: Early voting has already started! Last day to vote is August 11, 2020
-  image: /images/tutorials.svg
+  description: Set for August 11, 2020
+  image: /images/pablo/pablo-212.png
+- name: Where do I go?
+  slug: where
+  description: Logistical Questions
+  image: /images/pablo/pablo-210.png
 - name: FAQs
   slug: faqs
   description: Frequently asked questions
-  image: /images/faqs.svg
-- name: Get Started
-  slug: getting-started
-  description: How to start using this Gatsby theme for your product's help center
-  image: /images/getting-started.svg
+  image: /images/pablo/pablo-221.png
