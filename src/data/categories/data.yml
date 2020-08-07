@@ -6,7 +6,7 @@
   slug: faqs
   description: Frequently asked questions about this theme (according to projections)
   image: /images/faqs.svg
-- name: Tutorials
-  slug: tutorials
-  description: Step-by-step guides for customizing bits of this theme
+- name: General Primary Runoff
+  slug: general-primary-runoff
+  description: Early voting has already started! Last day to vote is August 11, 2020
   image: /images/tutorials.svg
