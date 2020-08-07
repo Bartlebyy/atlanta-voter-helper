@@ -1,12 +1,12 @@
-- name: Get Started
-  slug: getting-started
-  description: How to start using this Gatsby theme for your product's help center
-  image: /images/getting-started.svg
-- name: FAQs
-  slug: faqs
-  description: Frequently asked questions about this theme (according to projections)
-  image: /images/faqs.svg
 - name: General Primary Runoff
   slug: general-primary-runoff
   description: Early voting has already started! Last day to vote is August 11, 2020
   image: /images/tutorials.svg
+- name: FAQs
+  slug: faqs
+  description: Frequently asked questions
+  image: /images/faqs.svg
+- name: Get Started
+  slug: getting-started
+  description: How to start using this Gatsby theme for your product's help center
+  image: /images/getting-started.svg
