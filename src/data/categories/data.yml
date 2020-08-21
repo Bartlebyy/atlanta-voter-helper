@@ -1,6 +1,6 @@
-- name: General Primary Runoff
-  slug: general-primary-runoff
-  description: Set for August 11, 2020
+- name: General Election
+  slug: general-election
+  description: Early voting begins Oct 12
   image: /images/pablo/pablo-212.png
 - name: Where do I go?
   slug: where

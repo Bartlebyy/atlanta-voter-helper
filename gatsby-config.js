@@ -17,7 +17,7 @@ module.exports = {
     facebookUrl: "",
     ctaButtonText: "Open source on GitHub",
     ctaButtonUrl: "https://github.com/Bartlebyy/atlanta-voter-helper",
-    linkText: "Images from icons8.com",
+    linkText: "Illustration from Icons8",
     linkUrl: "https://www.icons8.com",
     headline: "What voting-related question do you have?",
     footerText: "About Me",
